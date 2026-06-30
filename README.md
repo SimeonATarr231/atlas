@@ -8,7 +8,7 @@ Filter project.
 
 ## Live Demo
 
-[View Live](https://simeonatarr231.github.io/atlas)
+[View Live](https://simeonatarr231.github.io/atlas/)
 
 ---
 
